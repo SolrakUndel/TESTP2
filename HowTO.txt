@@ -1,0 +1,3 @@
+For peer:
+
+   java  -jar peerXat.jar 161.116.52.194 1099
